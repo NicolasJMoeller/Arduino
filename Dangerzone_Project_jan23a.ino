@@ -1,3 +1,4 @@
+//Author: Nicolas Möller, Cedric Bühler
 #include "arduino_secrets.h"
 #include "thingProperties.h" //Bibliothek thingProperties einbeziehen
 #include "M5Stack.h" //Bibliothek M5Stack einbeziehen
